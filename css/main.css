@@ -143,7 +143,7 @@ ul li {
 	display: inline-block;
 }
 .navigation a {
-	color: rgba(255, 255, 255, 0.75);
+	color: rgba(7, 37, 64, 0.75);
 	font-size: 13px;
 	font-weight: 400;
 	margin-left: 40px;
@@ -151,7 +151,7 @@ ul li {
 	text-transform: uppercase;
 }
 .navigation a:hover, .navigation a.active {
-	color: #fff;
+	color: #D5E5F2;
 }
 .nav-toggle {
 	display: none;
@@ -310,15 +310,15 @@ ul li {
 	padding-top: 33%;
 }
 .banner-text h1 {
-	color: #fff;
+	color: #1F4C73;
 	font-family: "Source Sans Pro";
-	font-size: 53px;
+	font-size: 69px;
 	letter-spacing: 20px;
-	font-weight: 700;
+	font-weight: 1000;
 	text-transform: uppercase;
 }
 .banner-text p {
-	color: #8d8d8d;
+	color: #6B98BF;
 	font-size: 12px;
 	font-weight: 400;
 	letter-spacing: 3px;
@@ -340,11 +340,11 @@ ul li {
 	padding: 100px 15% 0;
 }
 .intro h1 {
-	color: #000;
+	color: #072540;
 	font: 27px "Source Sans Pro";
 }
 .intro p {
-	color: #6c7279;
+	color: #1F4C73;
 	display: block;
 	font-size: 13px;
 	font-style: normal;
@@ -566,7 +566,7 @@ ul li {
 	color: rgba(255, 255, 255, 0.50);
 }
 .footer a:hover {
-	color: #e84545;
+	color: #D5E5F2;
 }
 .footer .footer-share {
 	margin-top: 0;
